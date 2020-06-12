@@ -1,0 +1,9 @@
+app/MiuiBiometric/lib/arm64
+app/WebViewGoogle/WebViewGoogle.apk
+lib64/libFaceDetectCA.so
+lib64/libgnustl_shared.so
+lib64/libmegface_meglive.so
+lib64/libMegviiUnlock-jni-1.2.so
+lib64/libMegviiUnlock.so
+lib64/libqspower-1.0.0.so
+vendor/data-app/SmartHome/SmartHome.apk
