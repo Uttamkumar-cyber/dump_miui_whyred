@@ -235,6 +235,15 @@
     <apn carrier="IMS"
         mcc="204"
         mnc="04"
+        apn="ims"
+        type="ims"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
+    />
+
+    <apn carrier="IMS"
+        mcc="204"
+        mnc="04"
         apn="IMS"
         type="ims"
         mvno_type="spn"
@@ -2782,6 +2791,15 @@
         roaming_protocol="IP"
     />
 
+    <apn carrier="IMS"
+        mcc="216"
+        mnc="70"
+        apn="ims"
+        type="ims"
+        protocol="IP"
+        roaming_protocol="IP"
+    />
+
     <apn carrier="UPC Mobil Internet"
         mcc="216"
         mnc="71"
@@ -3743,6 +3761,17 @@
         type="ims"
         protocol="IP"
         roaming_protocol="IP"
+    />
+
+    <apn carrier="IMS"
+        mcc="222"
+        mnc="88"
+        apn="ims"
+        type="ims"
+        protocol="IP"
+        roaming_protocol="IP"
+        mvno_type="gid"
+        mvno_match_data="0000000099"
     />
 
     <apn carrier="INTERNET"
@@ -8890,6 +8919,15 @@
         mmsport="80"
         mmsproxy="10.24.59.200"
         type="mms"
+        protocol="IP"
+        roaming_protocol="IP"
+    />
+
+    <apn carrier="IMS"
+        mcc="272"
+        mnc="01"
+        apn="ims"
+        type="ims"
         protocol="IP"
         roaming_protocol="IP"
     />
@@ -31814,6 +31852,20 @@
         type="mms"
     />
 
+    <apn carrier="Mobily WEB 2"
+        mcc="420"
+        mnc="03"
+        apn="web2"
+        type="default,supl"
+    />
+
+    <apn carrier="Mobily WEB"
+        mcc="420"
+        mnc="03"
+        apn="web1"
+        type="default,supl"
+    />
+
     <apn carrier="Mobily postpaid - GPRS"
         mcc="420"
         mnc="03"
@@ -33111,6 +33163,18 @@
         type="default,supl"
     />
 
+    <apn carrier="BIGLOBEモバイル　タイプD"
+        mcc="440"
+        mnc="10"
+        apn="biglobe.jp"
+        user="user"
+        password="0000"
+        authtype="3"
+        type="default,supl,dun"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
+    />
+
     <apn carrier="IMS"
         mcc="440"
         mnc="10"
@@ -33256,6 +33320,18 @@
         password="au"
         type="default"
         authtype="2"
+    />
+
+    <apn carrier="BIGLOBEモバイル　タイプA"
+        mcc="440"
+        mnc="51"
+        apn="biglobe.jp"
+        user="user"
+        password="0000"
+        authtype="3"
+        type="default,supl,dun"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="IMS"

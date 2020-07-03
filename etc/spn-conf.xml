@@ -761,11 +761,10 @@
     <spnOverride numeric="45005" spn="KOR SK Telecom"/>
     <spnOverride numeric="45006" spn="KOR LG Uplus"/>
     <spnOverride numeric="45008" spn="KT"/>
-    <spnOverride numeric="45201" spn="VN Mobifone"/>
-    <spnOverride numeric="45202" spn="VN VINAPHONE"/>
+    <spnOverride numeric="45201" spn="Mobifone"/>
+    <spnOverride numeric="45202" spn="Vinaphone"/>
     <spnOverride numeric="45204" spn="VIETTEL"/>
-    <spnOverride numeric="45204" spn="VNM and VIETTEL"/>
-    <spnOverride numeric="45205" spn="VN Vietnamobile"/>
+    <spnOverride numeric="45205" spn="Vietnamobile"/>
     <spnOverride numeric="45207" spn="Gmobile"/>
     <spnOverride numeric="45400" spn="CSL"/>
     <spnOverride numeric="45402" spn="CSL"/>
@@ -871,12 +870,14 @@
     <spnOverride numeric="52018" spn="TH-DTAC"/>
     <spnOverride numeric="52020" spn="ACeS"/>
     <spnOverride numeric="52023" spn="TH GSM 1800"/>
+    <spnOverride numeric="52047" spn="AIS-T"/>
     <spnOverride numeric="52099" spn="TRUE-H"/>
     <spnOverride numeric="52501" spn="Singtel"/>
     <spnOverride numeric="52502" spn="Singtel"/>
     <spnOverride numeric="52503" spn="SGP-M1"/>
     <spnOverride numeric="52507" spn="SGP Call Zone"/>
     <spnOverride numeric="52508" spn="StarHub"/>
+    <spnOverride numeric="52510" spn="TPG SG"/>
     <spnOverride numeric="52802" spn="PCSB"/>
     <spnOverride numeric="52811" spn="BRU-DSTCom"/>
     <spnOverride numeric="53001" spn="vodafone NZ"/>

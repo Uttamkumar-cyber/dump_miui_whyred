@@ -1,8 +1,8 @@
 
 ro.product.first_api_level=25
-ro.vendor.build.date=Thu Jun 11 00:29:31 CST 2020
-ro.vendor.build.date.utc=1591806571
-ro.vendor.build.fingerprint=xiaomi/whyred/whyred:9/PKQ1.180904.001/20.6.11:user/release-keys
+ro.vendor.build.date=Thu Jun 18 00:32:24 CST 2020
+ro.vendor.build.date.utc=1592411544
+ro.vendor.build.fingerprint=xiaomi/whyred/whyred:9/PKQ1.180904.001/20.6.18:user/release-keys
 ro.vendor.build.security_patch=2018-06-05
 ro.vendor.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
 ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi
