@@ -53,7 +53,7 @@ on fs
     mkdir /mnt/vendor/persist/data 0700 system system
     mkdir /mnt/vendor/persist/stability 0755 system system
     mkdir /mnt/vendor/persist/bms 0700 root system
-    restorecon_recursive_force  /mnt/vendor/persist
+    restorecon_recursive /mnt/vendor/persist
     write /sys/kernel/boot_adsp/boot 1
     chown system system /dev/goodix_fp
     #chmod 0644 /dev/goodix_fp
@@ -89,10 +89,10 @@ on post-fs-data
     mkdir /data/tombstones/lpass 0771 system system
     mkdir /data/tombstones/wcnss 0771 system system
     mkdir /data/tombstones/dsps 0771 system system
-    chown system system /sys/class/power_supply/battery/otg_ctrl
 #E7S has no hbtp feature
 #    mkdir /data/vendor/hbtp 0750 system system
 #end
+    mkdir /data/misc/seemp 0700 system system
     mkdir /data/vendor/tloc 0700 system drmrpc
     start pa-cal-load
     
@@ -512,6 +512,12 @@ on charger
 #    socket vqtss stream 0660 system system
 #    user system
 #    group system
+
+service seempd /system/bin/seempd
+    class late_start
+    user system
+    group system sdcard_rw
+    socket seempdw dgram 0666 system system
 
 service vendor.tlocd /vendor/bin/tloc_daemon
     class late_start

@@ -1,8 +1,8 @@
 
 ro.product.first_api_level=25
-ro.vendor.build.date=Thu Jun 18 00:32:24 CST 2020
-ro.vendor.build.date.utc=1592411544
-ro.vendor.build.fingerprint=xiaomi/whyred/whyred:9/PKQ1.180904.001/20.6.18:user/release-keys
+ro.vendor.build.date=Fri Aug 16 00:20:18 CST 2019
+ro.vendor.build.date.utc=1565886018
+ro.vendor.build.fingerprint=xiaomi/whyred/whyred:9/PKQ1.180904.001/V10.3.5.0.PEICNXM:user/release-keys
 ro.vendor.build.security_patch=2018-06-05
 ro.vendor.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
 ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi
@@ -20,6 +20,7 @@ ro.product.vendor.device=whyred
 #
 # ADDITIONAL VENDOR BUILD PROPERTIES
 #
+persist.sys.job_delay=true
 persist.sys.mcd_config_file=/system/etc/mcd_default.conf
 qemu.hw.mainkeys=0
 vendor.video.disable.ubwc=1
@@ -46,7 +47,7 @@ persist.vendor.radio.sib16_support=1
 persist.vendor.radio.custom_ecc=1
 persist.vendor.radio.rat_on=combine
 persist.backup.ntpServer=0.pool.ntp.org
-sys.vendor.shutdown.waittime=2000
+sys.vendor.shutdown.waittime=500
 ro.build.shutdown_timeout=0
 ro.frp.pst=/dev/block/bootdevice/by-name/frp
 ro.opengles.version=196610

@@ -25,7 +25,7 @@
     <spnOverride numeric="21210" spn="Monaco"/>
     <spnOverride numeric="21303" spn="ANDORRA-MOBILAND"/>
     <spnOverride numeric="21401" spn="vodafone ES"/>
-    <spnOverride numeric="21403" spn="Orange"/>
+    <spnOverride numeric="21403" spn="Orange SP"/>
     <spnOverride numeric="21404" spn="YOIGO"/>
     <spnOverride numeric="21407" spn="Movistar"/>
     <spnOverride numeric="21601" spn="Telenor HU"/>
@@ -44,9 +44,8 @@
     <spnOverride numeric="22005" spn="Vip SRB"/>
     <spnOverride numeric="22201" spn="I TIM"/>
     <spnOverride numeric="22210" spn="vodafone IT"/>
-    <spnOverride numeric="22250" spn="ILIAD"/>
-    <spnOverride numeric="22288" spn="WINDTRE"/>
-    <spnOverride numeric="22299" spn="WINDTRE"/>
+    <spnOverride numeric="22288" spn="I WIND"/>
+    <spnOverride numeric="22299" spn="3 ITA"/>
     <spnOverride numeric="22601" spn="RO Vodafone RO"/>
     <spnOverride numeric="22603" spn="TELEKOM.RO"/>
     <spnOverride numeric="22605" spn="RO Digi.Mobil"/>
@@ -64,7 +63,7 @@
     <spnOverride numeric="23103" spn="SWAN SK"/>
     <spnOverride numeric="23106" spn="O2 - SK"/>
     <spnOverride numeric="23201" spn="A1"/>
-    <spnOverride numeric="23203" spn="Magenta-T-"/>
+    <spnOverride numeric="23203" spn="T-Mobile A"/>
     <spnOverride numeric="23205" spn="3 AT"/>
     <spnOverride numeric="23207" spn="telering"/>
     <spnOverride numeric="23210" spn="3 AT"/>
@@ -683,17 +682,16 @@
     <spnOverride numeric="41303" spn="SRI Etisalat"/>
     <spnOverride numeric="41305" spn="SRI AIRTEL"/>
     <spnOverride numeric="41308" spn="Hutch"/>
-    <spnOverride numeric="41401" spn="MPT"/>
+    <spnOverride numeric="41401" spn="MM 900"/>
     <spnOverride numeric="41405" spn="Ooredoo"/>
     <spnOverride numeric="41406" spn="Telenor"/>
     <spnOverride numeric="41409" spn="MYTEL"/>
-    <spnOverride numeric="41420" spn="ACS"/>
     <spnOverride numeric="41501" spn="alfa"/>
     <spnOverride numeric="41503" spn="touch"/>
     <spnOverride numeric="41505" spn="LBN OGERO Mobile"/>
     <spnOverride numeric="41601" spn="Zain JO"/>
     <spnOverride numeric="41603" spn="UMNIAH"/>
-    <spnOverride numeric="41677" spn="Orange JO"/>
+    <spnOverride numeric="41677" spn="Orange"/>
     <spnOverride numeric="41701" spn="SYRIATEL"/>
     <spnOverride numeric="41702" spn="MTN"/>
     <spnOverride numeric="41805" spn="ASIACELL"/>
@@ -761,10 +759,11 @@
     <spnOverride numeric="45005" spn="KOR SK Telecom"/>
     <spnOverride numeric="45006" spn="KOR LG Uplus"/>
     <spnOverride numeric="45008" spn="KT"/>
-    <spnOverride numeric="45201" spn="Mobifone"/>
-    <spnOverride numeric="45202" spn="Vinaphone"/>
+    <spnOverride numeric="45201" spn="VN Mobifone"/>
+    <spnOverride numeric="45202" spn="VN VINAPHONE"/>
     <spnOverride numeric="45204" spn="VIETTEL"/>
-    <spnOverride numeric="45205" spn="Vietnamobile"/>
+    <spnOverride numeric="45204" spn="VNM and VIETTEL"/>
+    <spnOverride numeric="45205" spn="VN Vietnamobile"/>
     <spnOverride numeric="45207" spn="Gmobile"/>
     <spnOverride numeric="45400" spn="CSL"/>
     <spnOverride numeric="45402" spn="CSL"/>
@@ -870,14 +869,12 @@
     <spnOverride numeric="52018" spn="TH-DTAC"/>
     <spnOverride numeric="52020" spn="ACeS"/>
     <spnOverride numeric="52023" spn="TH GSM 1800"/>
-    <spnOverride numeric="52047" spn="AIS-T"/>
     <spnOverride numeric="52099" spn="TRUE-H"/>
     <spnOverride numeric="52501" spn="Singtel"/>
     <spnOverride numeric="52502" spn="Singtel"/>
     <spnOverride numeric="52503" spn="SGP-M1"/>
     <spnOverride numeric="52507" spn="SGP Call Zone"/>
     <spnOverride numeric="52508" spn="StarHub"/>
-    <spnOverride numeric="52510" spn="TPG SG"/>
     <spnOverride numeric="52802" spn="PCSB"/>
     <spnOverride numeric="52811" spn="BRU-DSTCom"/>
     <spnOverride numeric="53001" spn="vodafone NZ"/>
@@ -912,7 +909,6 @@
     <spnOverride numeric="60201" spn="Orange EG"/>
     <spnOverride numeric="60202" spn="vodafone EG"/>
     <spnOverride numeric="60203" spn="Etisalat"/>
-    <spnOverride numeric="60204" spn="EGYwe"/>
     <spnOverride numeric="60301" spn="ALG Mobilis"/>
     <spnOverride numeric="60302" spn="Djezzy"/>
     <spnOverride numeric="60303" spn="ooredoo Algeria"/>

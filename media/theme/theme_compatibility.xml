@@ -59,8 +59,6 @@
 </fallback>
 
 <newDefValue>
-    <item package="com.android.systemui" resourceType="bool" property1="battery_meter_use_legacy_drawable" property2="true" propertyExtra="" />
-    <item package="com.android.systemui" resourceType="bool" property1="use_status_bar_tint" property2="false" propertyExtra="" />
 </newDefValue>
 
 </MIUI_Theme_Compatibility>

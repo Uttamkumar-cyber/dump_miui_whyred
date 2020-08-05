@@ -233,4 +233,3 @@ ProcessManager          u:object_r:miui_process_service:s0
 android.app.fod.ICallback         u:object_r:system_app_service:s0
 EnterpriseManager        u:object_r:miui_enterprise_service:s0
 miuiboosterservice     u:object_r:miuibooster_service:s0
-greezer                u:object_r:greeze_service:s0

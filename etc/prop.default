@@ -29,8 +29,8 @@ debug.atrace.tags.enableflags=0
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Thu Jun 18 00:32:24 CST 2020
-ro.bootimage.build.date.utc=1592411544
-ro.bootimage.build.fingerprint=xiaomi/whyred/whyred:9/PKQ1.180904.001/20.6.18:user/release-keys
+ro.bootimage.build.date=Fri Aug 16 00:20:18 CST 2019
+ro.bootimage.build.date.utc=1565886018
+ro.bootimage.build.fingerprint=xiaomi/whyred/whyred:9/PKQ1.180904.001/V10.3.5.0.PEICNXM:user/release-keys
 persist.sys.usb.config=none
 

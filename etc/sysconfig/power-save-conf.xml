@@ -2,6 +2,4 @@
 <permissions>
     <allow-in-power-save package="com.android.deskclock"/>
     <allow-in-power-save package="com.android.updater"/>
-    <allow-in-power-save package="com.android.mms"/>
-    <allow-in-power-save package="com.google.android.apps.messaging"/>
 </permissions>

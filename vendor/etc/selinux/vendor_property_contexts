@@ -244,7 +244,7 @@ persist.vendor.camera.privapp.list u:object_r:vendor_camera_prop:s0
 persist.vendor.camera.eis.enabled  u:object_r:vendor_camera_prop:s0
 persist.vendor.camera.vidhance.eis.enabled  u:object_r:vendor_camera_prop:s0
 persist.vendor.camera.archdr.force  u:object_r:vendor_camera_prop:s0
-vendor.camera.cpuperf.en  u:object_r:vendor_camera_prop:s0
+
 persist.vendor.camera.isp.noskip u:object_r:vendor_camera_prop:s0
 persist.vendor.camera.rearMain.fuseId u:object_r:vendor_camera_prop:s0
 persist.vendor.camera.rearfrontMain.fuseId u:object_r:vendor_camera_prop:s0

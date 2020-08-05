@@ -32,14 +32,10 @@
         file="/system/framework/miuipushsdkshared.jar" />
     <library name="miui-stat.jar"
         file="/system/framework/miuistatssdkshared.jar" />
-    <library name="miui-stat-v3.jar"
-        file="/system/framework/miuistatssdksharedv3.jar" />
     <library name="eventbus.jar"
         file="/system/framework/eventbus.jar" />
     <library name="security-device-credential-sdk.jar"
         file="/system/framework/security-device-credential-sdk.jar" />
-    <library name="global-miui11-empty.jar"
-        file="/system/framework/global-miui11-empty.jar" />
 
     <allow-in-power-save package="com.facebook.services"/>
 </permissions>

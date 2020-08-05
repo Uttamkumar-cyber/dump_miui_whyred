@@ -25,13 +25,11 @@
     <!--whether the device supports page layout-->
     <bool name="support_page_layout">false</bool>
     <!--whether the device supports record param-->
-    <bool name="support_record_param">true</bool>
+    <bool name="support_record_param">false</bool>
     <!--whether the device supports interview record param-->
     <bool name="support_interview_record_param">true</bool>
     <!--whether the device supports stereo record-->
     <bool name="support_stereo_record">true</bool>
-    <!--whether the device supports screenrecorder inner-sound recorder mode-->
-    <integer name="support_inner_record">1</integer>
     <!--whether the device supports screen paper mode-->
     <bool name="support_screen_paper_mode">true</bool>
     <!--whether the device supports button light-->
@@ -244,7 +242,6 @@
         <item>com.xiaomi.midrop</item>
         <item>com.android.midrive</item>
         <item>com.xiaomi.drivemode</item>
-        <item>com.miui.smarttravel</item>
     </string-array>
     <!--system data-app path list -->
     <string-array name="system_data_path_list">
@@ -266,7 +263,6 @@
         <item>/system/data-app/MiDrop/MiDrop.apk</item>
         <item>/system/data-app/MiDrive/MiDrive.apk</item>
         <item>/system/data-app/MiuiDriveMode/MiuiDriveMode.apk</item>
-        <item>/system/data-app/SmartTravel/SmartTravel.apk</item>
     </string-array>
     <!-- whether camera support AI lens entry -->
     <bool name="camera_support_ai_lens">true</bool>
@@ -348,8 +344,4 @@
     <string-array name="support_face_unlock_region_dom">
         <item>CN</item>
     </string-array>
-    <!-- whether support_screen_on_delayed -->
-    <bool name="support_screen_on_delayed">true</bool>
-    <!-- whether support hangup while screen turnning off -->
-    <bool name="support_hangup_while_screen_off">true</bool>
 </features>

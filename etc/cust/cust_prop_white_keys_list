@@ -9,7 +9,6 @@ ro.miui.mnc
 ro.com.android.mobiledata
 ro.build.hardware.version
 ro.com.google.clientidbase
-ro.com.google.clientidbase.ms
 ro.miui.cts
 ro.miui.customized.region
 ro.miui.customized_clientid

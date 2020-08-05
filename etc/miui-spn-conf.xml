@@ -18,9 +18,6 @@
     <spn numeric="46692" alpha="Chunghwa" short="Chunghwa" alpha-zh="中华电信" short-zh="中华" alpha-zh_TW="中華電信" short-zh_TW="中華" />
     <spn numeric="46697" alpha="TW Mobile" short="TW Mobile" alpha-zh="台湾大哥大" short-zh="台湾大哥大" alpha-zh_TW="台灣大哥大" short-zh_TW="台灣大哥大" />
 
-    <!-- Virtual providers in Taiwan -->
-    <spn numeric="46692" condition="pnn:無框行動" alpha="Circles.Life" short="Circles.Life" alpha-zh="无框行动" short-zh="无框行动" alpha-zh_TW="無框行動" short-zh_TW="無框行動" mvno="true" />
-
     <!-- Providers in HongKong -->
     <spn numeric="45403" alpha="3" short="3" />
     <spn numeric="45404" alpha="3 (2G)" short="3 (2G)" />
@@ -63,7 +60,7 @@
     <!-- Providers in France -->
     <spn numeric="20801" alpha="Orange F" short="Orange F" />
     <spn numeric="20801" condition="alpha;imsi:208011511xxxxxx" alpha="Coriolis" short="Coriolis" mvno="true"/>
-    <spn numeric="20801" condition="pnn:Free" alpha="Free" short="Free" mvno="true"/>
+
     <!-- Virtual Providers in United Kingdom -->
     <spn numeric="23430" condition="alpha;gid1:28;imsi:2080120801xxx67xxxxx" alpha="Virgin" short="Virgin" mvno="true"/>
     <spn numeric="23438" condition="alpha;gid1:28" alpha="Virgin" short="Virgin" mvno="true"/>
@@ -100,33 +97,8 @@
     <!-- Providers in Germany -->
     <spn numeric="26203" alpha="o2 - de" short="o2 - de" />
 
-    <!-- Providers in Cyprus -->
-    <spn numeric="28010" alpha="Epic" short="Epic" />
-
-    <!-- DE Virtual Providers -->
-    <spn numeric="26201" condition="gid1:44" alpha="congstar" short="congstar" mvno="true"/>
-
     <!-- H3G Virtual Providers -->
     <spn numeric="23420" condition="gid1:0305" alpha="iD" short="iD" mvno="true"/>
     <spn numeric="23420" condition="gid1:0309" alpha="SMARTY" short="SMARTY" mvno="true"/>
     <spn numeric="23420" condition="gid1:0310" alpha="Superdrug" short="Superdrug" mvno="true"/>
-
-    <!-- Orange -->
-    <spn numeric="61302" alpha="Orange BF" short="Orange BF" />
-    <spn numeric="62402" alpha="Orange CM" short="Orange CM" />
-    <spn numeric="61203" alpha="Orange" short="Orange" />
-    <spn numeric="63203" alpha="Orange GB" short="Orange GB" />
-    <spn numeric="61807" alpha="Orange LBR" short="Orange LBR" />
-    <spn numeric="64602" alpha="Orange" short="Orange" />
-    <spn numeric="60801" alpha="Orange SN" short="Orange SN" />
-    <spn numeric="61901" alpha="Orange SL" short="Orange SL" />
-    <spn numeric="60501" alpha="Orange TN" short="Orange TN" />
-    <spn numeric="61404" alpha="Orange" short="Orange" />
-
-    <spn numeric="47001" alpha="Grameenphone" short="Grameenphone" />
-
-    <spn numeric="24491" alpha="FI Telia" short="FI Telia" />
-
-    <spn numeric="21403" condition="alpha" alpha="EUSKALTEL" short="EUSKALTEL" mvno="true"/>
-    <spn numeric="21403" condition="alpha" alpha="mobilR" short="mobilR" mvno="true"/>
 </spns>

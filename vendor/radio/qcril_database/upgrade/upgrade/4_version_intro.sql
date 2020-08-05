@@ -7,7 +7,7 @@
 BEGIN TRANSACTION;
 
 CREATE TABLE IF NOT EXISTS qcril_properties_table (property TEXT,value TEXT, PRIMARY KEY(property));
-INSERT OR REPLACE INTO qcril_properties_table (property, value) VALUES ('qcrildb_version', 6);
+INSERT OR REPLACE INTO qcril_properties_table (property, value) VALUES ('qcrildb_version', 5);
 /*<Modify for qcril_emergency_source_mcc_table start*/
 DELETE FROM qcril_emergency_source_mcc_table WHERE MCC = '202' AND NUMBER = '100';
 DELETE FROM qcril_emergency_source_mcc_table WHERE MCC = '202' AND NUMBER = '199';
@@ -54,11 +54,6 @@ DELETE FROM qcril_emergency_source_voice_table WHERE MCC = '260';
 INSERT INTO qcril_emergency_source_voice_table VALUES('260','997','','full');
 INSERT INTO qcril_emergency_source_voice_table VALUES('260','998','','full');
 INSERT INTO qcril_emergency_source_voice_table VALUES('260','999','','full');
-
-DELETE FROM qcril_emergency_source_voice_table WHERE MCC = '456';
-INSERT INTO qcril_emergency_source_voice_table VALUES('456','117','','full');
-INSERT INTO qcril_emergency_source_voice_table VALUES('456','118','','full');
-INSERT INTO qcril_emergency_source_voice_table VALUES('456','119','','full');
 /*Modify for qcril_emergency_source_voice_table end>*/
 
 
