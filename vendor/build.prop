@@ -22,10 +22,10 @@ ro.vendor.build.version.incremental=20.8.25
 ro.vendor.build.version.release=10
 ro.vendor.build.version.sdk=29
 ro.product.vendor.brand=xiaomi
-ro.product.vendor.device=lavender
+ro.product.vendor.device=whyred
 ro.product.vendor.manufacturer=Xiaomi
-ro.product.vendor.model=Redmi Note 7
-ro.product.vendor.name=lavender
+ro.product.vendor.model=Redmi Note 5
+ro.product.vendor.name=whyred
 # end common build properties
 #
 # BOOTIMAGE_BUILD_PROPERTIES

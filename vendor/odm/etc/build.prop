@@ -16,10 +16,10 @@ ro.odm.build.version.incremental=20.8.25
 ro.odm.build.version.release=10
 ro.odm.build.version.sdk=29
 ro.product.odm.brand=xiaomi
-ro.product.odm.device=lavender
+ro.product.odm.device=whyred
 ro.product.odm.manufacturer=Xiaomi
-ro.product.odm.model=Redmi Note 7
-ro.product.odm.name=lavender
+ro.product.odm.model=Redmi Note 5
+ro.product.odm.name=whyred
 # end common build properties
 #
 # ADDITIONAL ODM BUILD PROPERTIES
