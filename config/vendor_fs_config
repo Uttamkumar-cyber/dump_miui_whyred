@@ -1052,6 +1052,7 @@ vendor/lib/libGPreqcancel.so 0 0 0644
 vendor/lib/libGPreqcancel_svc.so 0 0 0644
 vendor/lib/libI420colorconvert.so 0 0 0644
 vendor/lib/libMegviiFacepp-0.5.2.so 0 0 0644
+vendor/lib/libMiWatermark.so 0 0 0644
 vendor/lib/libOmxAacDec.so 0 0 0644
 vendor/lib/libOmxAacEnc.so 0 0 0644
 vendor/lib/libOmxAlacDec.so 0 0 0644

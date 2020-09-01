@@ -1053,6 +1053,7 @@
 /vendor/lib/libGPreqcancel_svc\.so u:object_r:vendor_file:s0
 /vendor/lib/libI420colorconvert\.so u:object_r:vendor_file:s0
 /vendor/lib/libMegviiFacepp-0\.5\.2\.so u:object_r:vendor_file:s0
+/vendor/lib/libMiWatermark\.so u:object_r:vendor_file:s0
 /vendor/lib/libOmxAacDec\.so u:object_r:vendor_file:s0
 /vendor/lib/libOmxAacEnc\.so u:object_r:vendor_file:s0
 /vendor/lib/libOmxAlacDecSw\.so u:object_r:vendor_file:s0
