@@ -2902,6 +2902,7 @@
 /vendor/lib/libdiag\.so u:object_r:same_process_hal_file:s0
 /vendor/lib/libdiagjni\.so u:object_r:vendor_file:s0
 /vendor/lib/libdisp-aba\.so u:object_r:vendor_file:s0
+/vendor/lib/libdng_sdk\.so u:object_r:vendor_file:s0
 /vendor/lib/libdng_sdkvendor\.so u:object_r:vendor_file:s0
 /vendor/lib/libdpmqmihal\.so u:object_r:vendor_file:s0
 /vendor/lib/libdrc\.so u:object_r:vendor_file:s0
@@ -3304,6 +3305,7 @@
 /vendor/lib/libtinyxml2_1\.so u:object_r:vendor_file:s0
 /vendor/lib/libtinyxml\.so u:object_r:vendor_file:s0
 /vendor/lib/libtzdrmgenprov\.so u:object_r:vendor_file:s0
+/vendor/lib/libuq\.so u:object_r:vendor_file:s0
 /vendor/lib/libvideoutils\.so u:object_r:vendor_file:s0
 /vendor/lib/libvidhance\.so u:object_r:vendor_file:s0
 /vendor/lib/libvidhance_gyro\.so u:object_r:vendor_file:s0

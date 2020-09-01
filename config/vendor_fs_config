@@ -2901,6 +2901,7 @@ vendor/lib/libdepthmapwrapper.so 0 0 0644
 vendor/lib/libdiag.so 0 0 0644
 vendor/lib/libdiagjni.so 0 0 0644
 vendor/lib/libdisp-aba.so 0 0 0644
+vendor/lib/libdng_sdk.so 0 0 0644
 vendor/lib/libdng_sdkvendor.so 0 0 0644
 vendor/lib/libdpmqmihal.so 0 0 0644
 vendor/lib/libdrc.so 0 0 0644
@@ -3303,6 +3304,7 @@ vendor/lib/libtinycompress.so 0 0 0644
 vendor/lib/libtinyxml.so 0 0 0644
 vendor/lib/libtinyxml2_1.so 0 0 0644
 vendor/lib/libtzdrmgenprov.so 0 0 0644
+vendor/lib/libuq.so 0 0 0644
 vendor/lib/libvideoutils.so 0 0 0644
 vendor/lib/libvidhance.so 0 0 0644
 vendor/lib/libvidhance_gyro.so 0 0 0644
