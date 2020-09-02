@@ -3492,6 +3492,7 @@ vendor/lib64/camera.device@3.4-external-impl.so 0 0 0644
 vendor/lib64/camera.device@3.4-impl.so 0 0 0644
 vendor/lib64/camera.device@3.5-external-impl.so 0 0 0644
 vendor/lib64/camera.device@3.5-impl.so 0 0 0644
+vendor/lib64/com.fingerprints.extension@1.0.so 0 0 0644
 vendor/lib64/com.fingerprints.extension@2.0.so 0 0 0644
 vendor/lib64/com.qualcomm.qti.ant@1.0.so 0 0 0644
 vendor/lib64/com.qualcomm.qti.bluetooth_audio@1.0.so 0 0 0644
@@ -3899,6 +3900,8 @@ vendor/lib64/libtinycompress.so 0 0 0644
 vendor/lib64/libtinyxml.so 0 0 0644
 vendor/lib64/libtinyxml2_1.so 0 0 0644
 vendor/lib64/libtzdrmgenprov.so 0 0 0644
+vendor/lib64/libvendor.goodix.hardware.fingerprint@1.0-service.so 0 0 0644
+vendor/lib64/libvendor.goodix.hardware.fingerprint@1.0.so 0 0 0644
 vendor/lib64/libvendor.goodix.hardware.interfaces.biometrics.fingerprint@2.1.so 0 0 0644
 vendor/lib64/libvideoutils.so 0 0 0644
 vendor/lib64/libvndfwk_detect_jni.qti.so 0 0 0644
