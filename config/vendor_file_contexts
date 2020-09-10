@@ -414,6 +414,15 @@
 /vendor/etc/NOTICE\.xml\.gz u:object_r:vendor_configs_file:s0
 /vendor/etc/a2dp_audio_policy_configuration\.xml u:object_r:vendor_configs_file:s0
 /vendor/etc/acdbdata u:object_r:vendor_configs_file:s0
+/vendor/etc/acdbdata/Forte u:object_r:vendor_configs_file:s0
+/vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal\.acdb u:object_r:vendor_configs_file:s0
+/vendor/etc/acdbdata/Forte/Forte_General_cal\.acdb u:object_r:vendor_configs_file:s0
+/vendor/etc/acdbdata/Forte/Forte_Global_cal\.acdb u:object_r:vendor_configs_file:s0
+/vendor/etc/acdbdata/Forte/Forte_Handset_cal\.acdb u:object_r:vendor_configs_file:s0
+/vendor/etc/acdbdata/Forte/Forte_Hdmi_cal\.acdb u:object_r:vendor_configs_file:s0
+/vendor/etc/acdbdata/Forte/Forte_Headset_cal\.acdb u:object_r:vendor_configs_file:s0
+/vendor/etc/acdbdata/Forte/Forte_Speaker_cal\.acdb u:object_r:vendor_configs_file:s0
+/vendor/etc/acdbdata/Forte/Forte_workspaceFile\.qwsp u:object_r:vendor_configs_file:s0
 /vendor/etc/acdbdata/MTP u:object_r:vendor_configs_file:s0
 /vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal\.acdb u:object_r:vendor_configs_file:s0
 /vendor/etc/acdbdata/MTP/MTP_General_cal\.acdb u:object_r:vendor_configs_file:s0

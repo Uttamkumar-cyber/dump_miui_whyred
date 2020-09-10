@@ -413,6 +413,15 @@ vendor/etc/IPACM_cfg.xml 0 0 0644
 vendor/etc/NOTICE.xml.gz 0 0 0644
 vendor/etc/a2dp_audio_policy_configuration.xml 0 0 0644
 vendor/etc/acdbdata 0 2000 0755
+vendor/etc/acdbdata/Forte 0 2000 0755
+vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_General_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_Global_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_Handset_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_Headset_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_Speaker_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_workspaceFile.qwsp 0 0 0644
 vendor/etc/acdbdata/MTP 0 2000 0755
 vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb 0 0 0644
 vendor/etc/acdbdata/MTP/MTP_General_cal.acdb 0 0 0644
