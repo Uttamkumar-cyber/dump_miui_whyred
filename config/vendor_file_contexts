@@ -923,6 +923,7 @@
 /vendor/firmware/leia_pfp_470\.fw u:object_r:vendor_firmware_file:s0
 /vendor/firmware/leia_pm4_470\.fw u:object_r:vendor_firmware_file:s0
 /vendor/firmware/msadp u:object_r:vendor_firmware_file:s0
+/vendor/firmware/tas2557_uCDSP\.bin u:object_r:vendor_firmware_file:s0
 /vendor/firmware/tfa98xx\.cnt u:object_r:vendor_firmware_file:s0
 /vendor/firmware/voice_amodel\.bin u:object_r:vendor_firmware_file:s0
 /vendor/firmware/wlan u:object_r:vendor_firmware_file:s0

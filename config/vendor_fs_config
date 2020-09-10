@@ -922,6 +922,7 @@ vendor/firmware/goodixfp.mdt 0 0 0644
 vendor/firmware/leia_pfp_470.fw 0 0 0644
 vendor/firmware/leia_pm4_470.fw 0 0 0644
 vendor/firmware/msadp 0 0 0644 /dev/block/bootdevice/by-name/msadp
+vendor/firmware/tas2557_uCDSP.bin 0 0 0644
 vendor/firmware/tfa98xx.cnt 0 0 0644
 vendor/firmware/voice_amodel.bin 0 0 0644
 vendor/firmware/wlan 0 2000 0755
