@@ -8,7 +8,7 @@ size=`du -sk $vendordir | awk '{$1*=1024;$1=int($1*1.05);printf $1}'`
 tempdir=${LOCALDIR}/temp
 make_ext4fs=$tools/make_ext4fs
 fsconfig=${LOCALDIR}/config/vendor_fs_config
-fcontexts=${LOCALDIR}/file_contexts
+fcontexts=${LOCALDIR}/config/vendor_file_contexts
 
 mk_image() {
 mkdir $tempdir
