@@ -3,7 +3,7 @@ show_progress(0.650000, 0);
 #ui_print("Patching system image unconditionally...");
 #block_image_update("/dev/block/bootdevice/by-name/system", package_extract_file("system.transfer.list"), "system.new.dat.br", "system.patch.dat") ||
 #  abort("E1001: Failed to update system image.");
-ui_print("Patching vendor image unconditionally...");
+#ui_print("Patching vendor image unconditionally...");
 show_progress(0.100000, 0);
 block_image_update("/dev/block/bootdevice/by-name/vendor", package_extract_file("vendor.transfer.list"), "vendor.new.dat.br", "vendor.patch.dat") ||
   abort("E2001: Failed to update vendor image.");

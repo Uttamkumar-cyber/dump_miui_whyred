@@ -13,7 +13,7 @@ fcontexts=${LOCALDIR}/file_contexts
 mk_image() {
 mkdir $tempdir
 echo "$fsconfig"
-$tools/mkuserimg_mke2fs.sh -s "$vendordir" "$output" ext4 vendor $size -C $fsconfig $fcontexts -T 0  -L vendor
+$tools/mkuserimg_mke2fs.sh "$vendordir" "$output" ext4 vendor $size -C $fsconfig $fcontexts -T 0  -L vendor
 }
 
 mk_zip() {
@@ -27,5 +27,5 @@ cd ..
 }
 
 mk_image
-mk_zip
-rm -rf temp
+#mk_zip
+#rm -rf temp
